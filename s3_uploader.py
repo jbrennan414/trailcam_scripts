@@ -15,7 +15,7 @@ for file in arr:
 
 #todo this should be a try/catch...
 #delete photos directory
-dir_path = '/home/pi/trailcam_scripts/photos1'
+dir_path = '/home/pi/trailcam_scripts/photos'
 
 try:
   shutil.rmtree(dir_path)
