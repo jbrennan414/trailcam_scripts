@@ -24,3 +24,4 @@ except OSError as e:
 
 #make a new photos directory
 os.mkdir(dir_path)
+exit()
