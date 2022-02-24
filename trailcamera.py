@@ -22,4 +22,3 @@ while True:
   pir.wait_for_no_motion()
   print("Motion stopped")
   led.off()
-  exit()
